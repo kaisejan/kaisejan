@@ -7,7 +7,7 @@ Aspiring Software Engineer | Full-Stack Developer | DSA Enthusiast | AI & Web De
 Driven by curiosity and a passion for innovation, I am a Computer Science and Engineering undergraduate focused on building reliable, scalable, and user-centric software solutions. I specialize in Full-Stack Development with a growing interest in Backend Systems, Artificial Intelligence, and Software Engineering. I thrive on solving challenging problems, optimizing application performance, and transforming ideas into impactful digital products. Dedicated to continuous learning and engineering excellence, I aspire to contribute to high-performing teams while creating technology that delivers meaningful value at scale.
 
 * 🌍  I'm based in Trichy,Tamil Nadu, India.
-* 🖥️  See my portfolio at ([http://kishorej.dev](https://kaisejan.github.io/portfolio/))
+* 🖥️  See my portfolio at https://kaisejan.github.io/portfolio/
 * ✉️  You can contact me at [kishorekaise524@gmail.com,pn:7414830809.](mailto:kishorekaise524@gmail.com,pn:7414830809.)
 * 🧠  I'm currently learning Advanced React • Node.js • System Design • DSA
 * 👥  I'm looking to collaborate on 🤝 open to collaborating on Full-Stack Web Development, Backend Engineering, Open Source Projects, and AI-powered applications.
