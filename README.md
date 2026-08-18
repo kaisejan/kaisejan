@@ -1,5 +1,3 @@
-# KISHORE JK — GitHub Profile README
-
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8B5CF6,50:EC4899,100:22D3EE&height=220&section=header&text=KISHORE%20JK&fontSize=60&fontColor=ffffff&animation=twinkling&fontAlignY=40&desc=Full-Stack%20Developer%20%7C%20AI%20and%20Web%20Development%20Enthusiast&descAlignY=62&descSize=20&descColor=ffffff" width="100%"/>
