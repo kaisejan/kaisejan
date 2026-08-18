@@ -1,37 +1,122 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Kishore JK
-===================================================================================================================================
+<div align="center">
 
-Aspiring Software Engineer | Full-Stack Developer | DSA Enthusiast | AI & Web Development and ai tech enthusiast ,tools,analytics ,smart ai implementation in enhanching my work.
--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8B5CF6,50:EC4899,100:22D3EE&height=220&section=header&text=KISHORE%20JK&fontSize=60&fontColor=ffffff&animation=twinkling&fontAlignY=40&desc=Full-Stack%20Developer%20%7C%20AI%20%26%20Web%20Development%20Enthusiast&descAlignY=62&descSize=20&descColor=ffffff" width="100%"/>
 
-Driven by curiosity and a passion for innovation, I am a Computer Science and Engineering undergraduate focused on building reliable, scalable, and user-centric software solutions. I specialize in Full-Stack Development with a growing interest in Backend Systems, Artificial Intelligence, and Software Engineering. I thrive on solving challenging problems, optimizing application performance, and transforming ideas into impactful digital products. Dedicated to continuous learning and engineering excellence, I aspire to contribute to high-performing teams while creating technology that delivers meaningful value at scale.
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=2800&pause=700&color=A855F7&center=true&vCenter=true&width=650&lines=Aspiring+Software+Engineer+%F0%9F%9A%80;DSA+Enthusiast+%F0%9F%A7%A0;AI+%26+Data+Tech+Enthusiast+%E2%9C%A8;Building+Scalable+Full-Stack+Apps+%F0%9F%92%BB" alt="Typing SVG" />
 
-* 🌍  I'm based in Trichy,Tamil Nadu, India.
-* 🖥️  See my portfolio at https://kaisejan.github.io/portfolio/
-* ✉️  You can contact me at [kishorekaise524@gmail.com,pn:7414830809.](mailto:kishorekaise524@gmail.com,pn:7414830809.)
-* 🧠  I'm currently learning Advanced React • Node.js • System Design • DSA
-* 👥  I'm looking to collaborate on 🤝 open to collaborating on Full-Stack Web Development, Backend Engineering, Open Source Projects, and AI-powered applications.
-* 💬  Ask me about Software Engineering Internships, Open Source Contributions, and Collaborative Development Projects.Seeking Software Engineering opportunities to learn, contribute, and grow as a developer.
+<br/>
+
+[![Email](https://img.shields.io/badge/-Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kishorekaise524@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kishore-jk)
+[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/kaisejan)
+[![Portfolio](https://img.shields.io/badge/-Portfolio-8B5CF6?style=for-the-badge&logo=googlechrome&logoColor=white)](https://kaisejan.github.io/portfolio/)
+
+![Profile Views](https://komarev.com/ghpvc/?username=kaisejan&color=8B5CF6&style=for-the-badge&label=PROFILE+VIEWS)
+
+</div>
+
+<br/>
+
+## 🚀 About Me
+
+<img align="right" width="280" src="assets/coding-animation.gif">
+
+### 👤 Who am I?
+
+- 🎓 **Computer Science & Engineering** undergraduate
+- 💻 **Full-Stack Developer** passionate about building reliable, scalable, user-centric software
+- 🧩 Growing focus on **Backend Systems, Artificial Intelligence & Software Engineering**
+- 🧠 Currently exploring **AI tools, analytics & smart AI implementation** to enhance my workflow
+- 🏗️ Currently building **[CodeGuard AI (CGX)](https://github.com/kaisejan/CODEGAURD-AI)** — an AI developer productivity & code intelligence platform
+- 🌱 Currently learning **Advanced React • Node.js • System Design • DSA**
+- 🌍 Based in **Trichy, Tamil Nadu, India**
+
+> *"I don't just write code — I build software that solves real problems."*
+
+<br clear="right"/>
+
+---
+
+## 📌 Featured Project
+
+### 🛡️ [CodeGuard AI (CGX)](https://github.com/kaisejan/CODEGAURD-AI)
+> AI Developer Productivity & Code Intelligence Platform
+
+An AI copilot that connects to your GitHub repos to explain code, catch bugs, flag security vulnerabilities, and surface engineering insights — built with a Linear/Vercel/Stripe-grade UI.
+
+`Next.js` `TypeScript` `Tailwind CSS` `Prisma` `PostgreSQL` `OpenAI API` `GitHub OAuth`
+
+---
+
+## 🏆 Competitive Programming
+
+<div align="center">
+
+[![LeetCode](https://img.shields.io/badge/LeetCode-Add%20your%20handle-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](#)
+[![CodeChef](https://img.shields.io/badge/CodeChef-Add%20your%20handle-5B4638?style=for-the-badge&logo=codechef&logoColor=white)](#)
+[![HackerRank](https://img.shields.io/badge/HackerRank-Add%20your%20handle-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white)](#)
+[![GeeksforGeeks](https://img.shields.io/badge/GfG-Add%20your%20handle-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](#)
+
+</div>
+
+---
+
+## 🛠️ Tech Stack
+
+**Frontend**
+
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind&theme=dark" />
+
+**Backend**
+
+<img src="https://skillicons.dev/icons?i=nodejs,express,python&theme=dark" />
+
+**Database & Cloud**
+
+<img src="https://skillicons.dev/icons?i=postgres,mongodb,prisma,aws,vercel&theme=dark" />
+
+**AI & Tools**
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,figma,openai&theme=dark" />
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=kaisejan&show_icons=true&theme=radical&hide_border=true&count_private=true" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaisejan&layout=compact&theme=radical&hide_border=true" />
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=kaisejan&theme=radical&hide_border=true" />
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=kaisejan&theme=redical&hide_border=true&bg_color=1a1b27&color=A855F7&line=EC4899&point=22D3EE" width="100%"/>
+
+</div>
+
+---
+
+## 🐍 Contribution Snake
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/kaisejan/kaisejan/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/kaisejan/kaisejan/output/github-contribution-grid-snake.svg" />
+  <img alt="github-contribution-grid-snake" src="https://raw.githubusercontent.com/kaisejan/kaisejan/output/github-contribution-grid-snake.svg" />
+</picture>
+
+</div>
+
+---
+
+## 🌐 Connect With Me
 
 <p align="left">
-<a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" alt="Java" title="Java" width="36" height="36" /></a><a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/c-colored.svg" alt="C" title="C" width="36" height="36" /></a><a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cplusplus-colored.svg" alt="C++" title="C++" width="36" height="36" /></a><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" alt="JavaScript" title="JavaScript" width="36" height="36" /></a><a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" alt="Python" title="Python" width="36" height="36" /></a><a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode-colored.svg" alt="VS Code" title="VS Code" width="36" height="36" /></a><a href="https://developer.apple.com/xcode/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/xcode-colored.svg" alt="XCode" title="XCode" width="36" height="36" /></a><a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" alt="HTML5" title="HTML5" width="36" height="36" /></a><a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" alt="React" title="React" width="36" height="36" /></a><a href="https://nextjs.org/docs" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nextjs-colored-dark.svg" alt="NextJs" title="NextJs" width="36" height="36" /></a><a href="https://expressjs.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/express-colored-dark.svg" alt="Express" title="Express" width="36" height="36" /></a><a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" alt="NodeJS" title="NodeJS" width="36" height="36" /></a><a href="https://www.oracle.com/uk/index.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/oracle-colored.svg" alt="Oracle" title="Oracle" width="36" height="36" /></a><a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" alt="MongoDB" title="MongoDB" width="36" height="36" /></a><a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" alt="PostgreSQL" title="PostgreSQL" width="36" height="36" /></a><a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" alt="MySQL" title="MySQL" width="36" height="36" /></a><a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" alt="Figma" title="Figma" width="36" height="36" /></a><a href="https://portal.azure.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/azure-colored.svg" alt="Microsoft Azure" title="Microsoft Azure" width="36" height="36" /></a><a href="https://cloud.google.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/googlecloud-colored.svg" alt="Google Cloud" title="Google Cloud" width="36" height="36" /></a><a href="https://www.raspberrypi.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/raspberrypi-colored.svg" alt="Raspberry Pi" title="Raspberry Pi" width="36" height="36" /></a><a href="https://store.arduino.cc/?gclid=Cj0KCQjw2eilBhCCARIsAG0Pf8uueBifykWcsSS4LPESeGQfxGVKJYnzV7bz471XfknQJy_1VINVWM8aAkLtEALw_wcB" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/arduino-colored.svg" alt="Arduino" title="Arduino" width="36" height="36" /></a><a href="https://www.blender.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/blender-colored.svg" alt="Blender" title="Blender" width="36" height="36" /></a>
+<a href="https://github.com/kaisejan" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" alt="GitHub" title="GitHub" /></a>
+<a href="https://www.linkedin.com/in/kishore-jk" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" alt="LinkedIn" title="LinkedIn" /></a>
+<a href="https://x.com/kishorekaise" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" alt="X (Twitter)" title="X (Twitter)" /></a>
+<a href="https://www.threads.net/@kishxre524" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/threads.svg" width="32" height="32" alt="Threads" title="Threads" /></a>
 </p>
 
-### Socials
-
-<p align="left"> <a href="https://www.github.com/kaisejan" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" alt="GitHub" title="GitHub" /> </picture> </a> <a href="https://www.x.com/https://x.com/kishorekaise" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" alt="Twitter" title="Twitter" /> </picture> </a> <a href="https://www.threads.net/@kishxre524" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/threads-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/threads.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/threads.svg" width="32" height="32" alt="Threads" title="Threads" /> </picture> </a> <a href="https://www.linkedin.com/in/kishore-jk" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" alt="LinkedIn" title="LinkedIn" /> </picture> </a></p>
-
-<!--
-**kaisejan/kaisejan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:22D3EE,50:EC4899,100:8B5CF6&height=100&section=footer" width="100%"/>
