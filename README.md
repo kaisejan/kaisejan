@@ -19,7 +19,7 @@
 
 ## 🚀 About Me
 
-<img align="right" width="300" src="https://user-images.githubusercontent.com/55389276/140866428-23152d09-23cd-4de8-8d8b-3882d04a4b60.gif">
+<img align="right" width="300" src="assets/coding-animation.gif">
 
 ### 👤 Who am I?
 
