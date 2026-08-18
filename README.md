@@ -9,7 +9,7 @@
 [![Email](https://img.shields.io/badge/-Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kishorekaise524@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kishore-jk)
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/kaisejan)
-[![Portfolio](https://img.shields.io/badge/-Portfolio-8B5CF6?style=for-the-badge&logo=googlechrome&logoColor=white)](https://kaisejan.github.io/portfolio/)
+[![Portfolio](https://img.shields.io/badge/-Portfolio-8B5CF6?style=for-the-badge&logo=googlechrome&logoColor=white)](https://kishore-portfolio-iota-three.vercel.app/)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=kaisejan&color=8B5CF6&style=for-the-badge&label=PROFILE+VIEWS)
 
