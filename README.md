@@ -19,7 +19,7 @@
 
 ## 🚀 About Me
 
-<img align="right" width="280" src="assets/coding-animation.gif">
+<img align="right" width="300" src="https://user-images.githubusercontent.com/55389276/140866428-23152d09-23cd-4de8-8d8b-3882d04a4b60.gif">
 
 ### 👤 Who am I?
 
@@ -35,7 +35,7 @@
 
 <br clear="right"/>
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:8B5CF6,100:22D3EE&height=2&section=header" width="100%"/>
 
 ## 📌 Featured Project
 
@@ -46,7 +46,7 @@ An AI copilot that connects to your GitHub repos to explain code, catch bugs, fl
 
 `Next.js` `TypeScript` `Tailwind CSS` `Prisma` `PostgreSQL` `OpenAI API` `GitHub OAuth`
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:EC4899,100:8B5CF6&height=2&section=header" width="100%"/>
 
 ## 🏆 Competitive Programming
 
@@ -59,7 +59,7 @@ An AI copilot that connects to your GitHub repos to explain code, catch bugs, fl
 
 </div>
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:22D3EE,100:EC4899&height=2&section=header" width="100%"/>
 
 ## 🛠️ Tech Stack
 
@@ -79,7 +79,7 @@ An AI copilot that connects to your GitHub repos to explain code, catch bugs, fl
 
 <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,openai&theme=dark" />
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:8B5CF6,100:EC4899&height=2&section=header" width="100%"/>
 
 ## 📊 GitHub Stats
 
@@ -94,7 +94,27 @@ An AI copilot that connects to your GitHub repos to explain code, catch bugs, fl
 
 </div>
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:22D3EE,100:8B5CF6&height=2&section=header" width="100%"/>
+
+## 🏅 GitHub Trophies
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=kaisejan&theme=radical&no-frame=true&no-bg=true&row=1&column=7" width="100%"/>
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:EC4899,100:22D3EE&height=2&section=header" width="100%"/>
+
+## 📅 3D Contribution Calendar
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/kaisejan/kaisejan/main/profile-3d-contrib/profile-gitblock.svg" width="100%"/>
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:8B5CF6,100:22D3EE&height=2&section=header" width="100%"/>
 
 ## 🐍 Contribution Snake
 
